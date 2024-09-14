@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>utils | Alan Guedes</title>
+    <link>https://alanlivio.github.io/tag/utils/</link>
+      <atom:link href="https://alanlivio.github.io/tag/utils/index.xml" rel="self" type="application/rss+xml" />
+    <description>utils</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://alanlivio.github.io/media/icon_hu1c6bc87bce6d553916e3a121ca1f69ce_4837_512x512_fill_lanczos_center_3.png</url>
+      <title>utils</title>
+      <link>https://alanlivio.github.io/tag/utils/</link>
+    </image>
+    
+    <item>
+      <title>bash-helpers</title>
+      <link>https://alanlivio.github.io/projects/bash-helpers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alanlivio.github.io/projects/bash-helpers/</guid>
+      <description>&lt;p align=&#34;center&#34;&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/alanlivio/bash-helpers/master/logo.svg&#34; width=&#34;250&#34;/&gt;
+&lt;/p&gt;
+
+
+
+
+Template to easily create multi-OS bash helpers for Windows (MSYS2/GitBash/WSL), Ubuntu, and Mac.
+</description>
+    </item>
+    
+    <item>
+      <title>docxreviews2txt</title>
+      <link>https://alanlivio.github.io/projects/docxreviews2txt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alanlivio.github.io/projects/docxreviews2txt/</guid>
+      <description>&lt;p align=&#34;center&#34;&gt;
+&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/.docx_icon.svg/512px-.docx_icon.svg.png&#34; width=&#34;60&#34;/&gt;
+&lt;/p&gt;
+
+
+
+
+Command line tool to extract review changes from a docx file as plain text with HTML tags &amp;lt;ins&amp;gt; and &amp;lt;del&amp;gt;.
+</description>
+    </item>
+    
+    <item>
+      <title>researcher-website-cv</title>
+      <link>https://alanlivio.github.io/projects/researcher-website-cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alanlivio.github.io/projects/researcher-website-cv/</guid>
+      <description>&lt;p align=&#34;center&#34;&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/alanlivio/bash-helpers/master/logo.svg&#34; width=&#34;250&#34;/&gt;
+&lt;/p&gt;
+
+
+
+
+Researcher website-cv using hugo, github-pages, and moderncv-latex template.
+</description>
+    </item>
+    
+  </channel>
+</rss>

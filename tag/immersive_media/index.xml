@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>immersive_media | Alan Guedes</title>
+    <link>https://alanlivio.github.io/tag/immersive_media/</link>
+      <atom:link href="https://alanlivio.github.io/tag/immersive_media/index.xml" rel="self" type="application/rss+xml" />
+    <description>immersive_media</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://alanlivio.github.io/media/icon_hu1c6bc87bce6d553916e3a121ca1f69ce_4837_512x512_fill_lanczos_center_3.png</url>
+      <title>immersive_media</title>
+      <link>https://alanlivio.github.io/tag/immersive_media/</link>
+    </image>
+    
+    <item>
+      <title>predict360user</title>
+      <link>https://alanlivio.github.io/projects/predict360user/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alanlivio.github.io/projects/predict360user/</guid>
+      <description>&lt;p align=&#34;center&#34;&gt;
+&lt;img src=&#34;https://github.com/alanlivio/users360/raw/master/docs/requests.gif&#34; width=&#34;250&#34;/&gt;
+&lt;img src=&#34;https://github.com/alanlivio/users360/raw/master/docs/requests.gif&#34; width=&#34;250&#34;/&gt;
+&lt;/p&gt;
+
+
+
+
+Library to predict user behavior in 360 videos.
+</description>
+    </item>
+    
+  </channel>
+</rss>
